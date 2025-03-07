@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">I am an Electrical and Computer Engineering Student at the University of Colorado Boulder.</p>
+<p align="left">I am an Electrical and Computer Engineering Student at the University of Colorado Boulder. I am most interested in medical devices, embedded systems, semiconductors, and signal processing.</p>
 
 ###
 
