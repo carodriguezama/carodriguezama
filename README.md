@@ -16,15 +16,6 @@
 
 ---
 
-### Projects
-
-- 3-to-1 HDMI Switch using ESP32 with I²C and custom PCB  
-- Modular PCB systems for Pinewood Derby modernization  
-- Signal processing algorithms implemented in C++/MATLAB  
-- Research in superconducting electronics and metrology  
-
----
-
 ### Connect with Me
 
 - Portfolio: [your-website.com](https://your-website.com)  
