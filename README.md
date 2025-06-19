@@ -19,7 +19,7 @@
 ### Connect with Me
 
 - Portfolio: [your-website.com](https://your-website.com)  
-- LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/yourname)  
-- Email: youremail@example.com  
+- LinkedIn: [linkedin.com/in/carlos-aldair-rodriguez-amaro](www.linkedin.com/in/carlos-aldair-rodriguez-amaro)  
+- Email: amrodengin@gmail.com
 
 ---
